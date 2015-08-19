@@ -33,4 +33,5 @@ app.get('/service',function(req,res){
 });
 
 app.listen(8082);
+console.log("Hello Welcome");
 console.log("running");
