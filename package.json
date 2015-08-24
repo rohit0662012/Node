@@ -1,0 +1,14 @@
+{
+  "name": "proxyecho-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^3.21.0"
+  }
+}
